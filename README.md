@@ -16,7 +16,7 @@ This is a Python-based GUI tool (PySide6 + OpenCV) designed to correct keystone 
 
 ### How to Use
 1. Install required packages: `opencv-python`, `numpy`, `PySide6`, `PyMuPDF`
-2. Run the main script: `image_fix_09.py`
+2. Run the main script
 3. Click "開啟檔案" (Open File) or "開啟資料夾" (Open Folder) to load the images or PDFs you want to process.
 4. If the automatically detected boundaries are slightly off, simply drag the red dots on the left screen to fine-tune.
 5. Click "預覽 / 套用" (Preview / Apply) to confirm the result, then export your images.
@@ -48,7 +48,7 @@ If you find this tool has saved you valuable time, I hope you can check out her 
 
 ### 如何使用
 1. 安裝必要的套件：`opencv-python`, `numpy`, `PySide6`, `PyMuPDF`
-2. 執行主程式：`image_fix_09.py`
+2. 執行主程式
 3. 點擊「開啟檔案」或「開啟資料夾」載入需要處理的圖片或 PDF。
 4. 如自動偵測的邊界有偏差，直接用滑鼠拖曳左側畫面中的紅點進行微調。
 5. 點選「預覽 / 套用」確認效果後，即可匯出圖片。
